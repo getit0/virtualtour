@@ -1,7 +1,12 @@
 # virtualtour
 Παρεμβατική και Βιωματική Τέχνη στο Σύγχρονο Κοινωνικό Περιβάλλον
 ## Promo 3d πλοήγηση για προβληματοποίηση σχετικά με τα ατυχήματα των αναπληρωτών <https://mastering.gr/virtualtour/>
-#
+# 
+[Αυθεντική σκέψη και κριτική παιδαγωγική. Προβληματισμός και καινοτόμες καλλιτεχνικές δράσεις για την ενδυνάμωση των εκπαιδευτικών](https://hellanicus.lib.aegean.gr/handle/11610/24375)
+
+[Η διαθήκη μου - Μιχάλης Κατσαρός](https://hellopoetry.com/poem/4271645/my-will-mihalis-katsaros/)
+
+[Αντίσταση στα στερεότυπα της ποίησης](https://actipedia.org/project/resistance-stereotypes-poetry)
 
 ## [Ενεικονιστική χαρτογράφηση για την ιστοσελίδα anaplirotes.gr](https://go.screenpal.com/watch/cr1riAV1bRw)
 [Φράκταλ ποίησης](https://hellopoetry.com/poem/4271645/my-will-mihalis-katsaros/)
